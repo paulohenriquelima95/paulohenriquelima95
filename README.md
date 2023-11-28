@@ -21,7 +21,7 @@ Atualmente, estou realizando minha segunda graduação no curso de Análise e De
 ## Como Entrar em Contato
 
 Estou sempre aberto(a) a networking e colaborações! Se você compartilha interesses semelhantes, tem conselhos para minha jornada ou simplesmente quer bater um papo, sinta-se à vontade para me contatar por meio das seguintes plataformas:
-- LinkedIn: [https://www.linkedin.com/in/paulohenriquelima95/]
-- E-mail: [paulohenrique-95@hotmail.com]
+- LinkedIn: [linkedin.com/in/paulohenriquelima95](https://www.linkedin.com/in/paulohenriquelima95/)
+- E-mail: [paulohenrique-95@hotmail.com](paulohenrique-95@hotmail.com)
 
 Estou animado(a) para aprender, crescer e colaborar nesta nova fase da minha carreira. Obrigado por visitar meu perfil!
