@@ -2,15 +2,15 @@
 
 ## Sobre Mim
 
-Olá, eu sou Paulo Henrique, um(a) engenheiro(a) civil entusiasmado(a) que está trilhando uma emocionante jornada de transição para a área de dados. Ao longo dos anos, adquiri uma sólida base em engenharia civil, mas minha paixão por dados e tecnologia me levou a embarcar nessa nova e empolgante jornada.
+Olá, eu sou Paulo Henrique, um engenheiro civil entusiasmado que está trilhando uma emocionante jornada de transição para a área de dados. Ao longo dos anos, adquiri uma sólida base em engenharia civil, mas minha paixão por dados e tecnologia me levou a embarcar nessa nova e empolgante jornada.
 
 ## Objetivo de Aprendizado
 
-Atualmente, estou focado(a) em expandir minhas habilidades na área de dados através de projetos acadêmicos e participação em bootcamps especializados. Meu objetivo é não apenas adquirir conhecimento teórico, mas aplicá-lo em projetos práticos que demonstrem minha capacidade de análise de dados, manipulação e visualização.
+Atualmente, estou focado em expandir minhas habilidades na área de dados através de projetos acadêmicos e participação em bootcamps especializados. Meu objetivo é não apenas adquirir conhecimento teórico, mas aplicá-lo em projetos práticos que demonstrem minha capacidade de análise de dados, manipulação e visualização.
 
 ## Bootcamp e Cursos
 
-Atualmente, estou realizando minha segunda graduação no curso de Análise e Desenvolvimento de Sistemas pelo UNINTER, onde estou imerso(a) em tópicos como Linguagem de programação, desenvolvimento em Python, banco de dados relacional e não relacional. Além disso, estou sempre explorando cursos online relevantes para fortalecer ainda mais minhas habilidades.
+Atualmente, estou realizando minha segunda graduação no curso de Análise e Desenvolvimento de Sistemas pelo UNINTER, onde estou imerso em tópicos como Linguagem de programação, desenvolvimento em Python, banco de dados relacional e não relacional. Além disso, estou sempre explorando cursos online relevantes para fortalecer ainda mais minhas habilidades.
 
 ## Objetivos Futuros
 
