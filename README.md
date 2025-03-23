@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Paulo Henrique Lima
 
-🎯 **Objetivo:** Estou em transição de carreira para a área de **Análise de Dados** e buscando oportunidades como **Analista de Dados Júnior**. Tenho experiência em **Excel, SQL, Python e ferramentas de visualização de dados**.
+🎯 **Objetivo:** Estou em transição de carreira para a área de **Análise de Dados** e buscando oportunidades como **Analista de Dados Júnior**. Tenho experiência com coleta, limpeza e tratamento de dados em **Excel, SQL, Python e ferramentas de visualização de dados**.
 
 ---
 
