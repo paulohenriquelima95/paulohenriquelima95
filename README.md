@@ -1,27 +1,41 @@
-# Bem-vindo ao meu Repositório! 👋
+# 👋 Olá! Eu sou Paulo Henrique Lima
 
-## Sobre Mim
+🎯 **Objetivo:** Estou em transição de carreira para a área de **Análise de Dados** e buscando oportunidades como **Analista de Dados Júnior**. Tenho experiência em **Excel, SQL, Python e ferramentas de visualização de dados**.
 
-Olá, eu sou Paulo Henrique, um engenheiro civil entusiasmado que está trilhando uma emocionante jornada de transição para a área de dados. Ao longo dos anos, adquiri uma sólida base em engenharia civil, mas minha paixão por dados e tecnologia me levou a embarcar nessa nova e empolgante jornada.
+---
 
-## Objetivo de Aprendizado
+## 🚀 Tecnologias e Ferramentas
 
-Atualmente, estou focado em expandir minhas habilidades na área de dados através de projetos acadêmicos e participação em bootcamps especializados. Meu objetivo é não apenas adquirir conhecimento teórico, mas aplicá-lo em projetos práticos que demonstrem minha capacidade de análise de dados, manipulação e visualização.
+### 📊 **Análise de Dados & BI**
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-## Bootcamp e Cursos
+### 🖥 **Linguagens de Programação**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-Atualmente, estou realizando minha segunda graduação no curso de Análise e Desenvolvimento de Sistemas pelo UNINTER, onde estou imerso em tópicos como Linguagem de programação, desenvolvimento em Python, banco de dados relacional e não relacional. Além disso, estou sempre explorando cursos online relevantes para fortalecer ainda mais minhas habilidades.
+### ⚙️ **Ferramentas & Versionamento**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Objetivos Futuros
+---
 
-- Concluir com sucesso o Bootcamp Ciências de Dados.
-- Participar ativamente em desafios e competições de dados.
-- Contribuir para projetos de código aberto na comunidade de dados.
+## 📜 Certificações
+![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 
-## Como Entrar em Contato
+---
 
-Estou sempre aberto a networking e colaborações! Se você compartilha interesses semelhantes, tem conselhos para minha jornada ou simplesmente quer bater um papo, sinta-se à vontade para me contatar por meio das seguintes plataformas:
-- LinkedIn: [linkedin.com/in/paulohenriquelima95](https://www.linkedin.com/in/paulohenriquelima95/)
-- E-mail: [paulohenrique-95@hotmail.com](paulohenrique-95@hotmail.com)
+## 📂 Projetos em Destaque
+🔹 **[Projeto 1 - Análise de Dados com Python e SQL](#)**
+🔹 **[Projeto 2 - Dashboard de Vendas no Power BI](#)**
+🔹 **[Projeto 3 - Modelagem de Dados para E-commerce](#)**
 
-Estou animado(a) para aprender, crescer e colaborar nesta nova fase da minha carreira. Obrigado por visitar meu perfil!
+---
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulohenriquelima/)  
+✉️ Email: **paulohenriquelima95@gmail.com**
