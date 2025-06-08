@@ -24,8 +24,12 @@
 ---
 
 ## 📜 Certificações
-![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Google Data Analytics](certificado/certificado_google_data_analytics.pdf)
+![Coursera]([https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white](https://www.coursera.org/account/accomplishments/professional-cert/BR1E3LSTNLZF))
+
+![Database Experience]([certificado/certificado_google_data_analytics.pdf](https://hermes.dio.me/certificates/KXFPS7N3.pdf))
+![Dio.me]([certificado/certificado_google_data_analytics.pdf](https://hermes.dio.me/certificates/KXFPS7N3.pdf))
+
 
 ---
 
