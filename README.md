@@ -24,17 +24,17 @@
 ---
 
 ## 📜 Certificações
-![Google Data Analytics](certificado/certificado_google_data_analytics.pdf)
-![Coursera]([https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white](https://www.coursera.org/account/accomplishments/professional-cert/BR1E3LSTNLZF))
+![Google Data Analytics]((https://github.com/paulohenriquelima95/paulohenriquelima95/blob/main/certificado/certificado_google_data_analytics.pdf))
+![Coursera](https://www.coursera.org/account/accomplishments/professional-cert/BR1E3LSTNLZF)
 
-![Database Experience]([certificado/certificado_google_data_analytics.pdf](https://hermes.dio.me/certificates/KXFPS7N3.pdf))
+![Database Experience]((https://hermes.dio.me/certificates/KXFPS7N3.pdf))
 ![Dio.me]([certificado/certificado_google_data_analytics.pdf](https://hermes.dio.me/certificates/KXFPS7N3.pdf))
 
 
 ---
 
 ## 📂 Projetos em Destaque
-🔹 **[Projeto 1 - Análise de Dados com Python e SQL](#)**
+🔹 **[Projeto 1 - Análise de Uso de Bicicletas Compartilhadas – Cyclistic Bike Share(https://github.com/paulohenriquelima95/cyclistic-bike-share-analysis/blob/main/README.md)**
 🔹 **[Projeto 2 - Dashboard de Vendas no Power BI](#)**
 🔹 **[Projeto 3 - Modelagem de Dados para E-commerce](#)**
 
