@@ -24,7 +24,7 @@
 ---
 
 ## 📜 Certificações
-[![Google Data Analytics - Coursera](https://img.shields.io/badge/Google%20Data%20Analytics-Coursera-2A73CC?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/BR1E3LSTNLZF)
+[![Google Data Analytics - Coursera](https://img.shields.io/badge/Google%20Data%20Analytics-Coursera-2A73CC?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/BR1E3LSTNLZF)
 
 [![Database Experience - Dio.me](https://img.shields.io/badge/Database%20Experience-DIO.me-EC1C24?style=for-the-badge&logo=data&logoColor=white)](https://hermes.dio.me/certificates/KXFPS7N3.pdf)
 
