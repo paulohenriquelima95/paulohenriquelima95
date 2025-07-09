@@ -33,7 +33,7 @@
 
 ## 📂 Projetos em Destaque
 🔹 **[Projeto 1 - Análise de Uso de Bicicletas Compartilhadas – Cyclistic Bike Share](https://github.com/paulohenriquelima95/cyclistic-bike-share-analysis/blob/main/README.md)**
-🔹 **[Projeto 2 - Dashboard de Vendas no Power BI](#)**
+🔹 **[Projeto 2 - Dashboard Power BI – Receita, Custo e Margem](https://github.com/paulohenriquelima95/dashboard-powerbi-receita-custo-margem/blob/main/README.md)**
 🔹 **[Projeto 3 - Modelagem de Dados para E-commerce](#)**
 
 ---
