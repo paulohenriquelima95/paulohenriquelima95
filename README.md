@@ -35,7 +35,7 @@
 - 🚲 [Projeto 1 - Análise de Uso de Bicicletas Compartilhadas – Cyclistic Bike Share](https://github.com/paulohenriquelima95/cyclistic-bike-share-analysis/blob/main/README.md)
 - 🧠 [Projeto 2 - Análise da Saúde Mental de Estudantes Internacionais (SQL)](https://github.com/paulohenriquelima95/mental-health-international-students-sql/blob/main/README.md)
 - 🏥 [Projeto 3 - Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS) – Back-end Python/Flask](https://github.com/paulohenriquelima95/TCC-Sistema-Gestao-Hospitalar)
-- 📊 [Projeto 4 - Projeto-Hospital-PowerBI-SQL](https://[github.com/paulohenriquelima95/Projeto-Hospital-PowerBI-SQL/blob/main/README.md])
+- 📊 [Projeto 4 - Projeto-Hospital-PowerBI-SQL](https://github.com/paulohenriquelima95/Projeto-Hospital-PowerBI-SQL/blob/main/README.md)
 ---
 
 ## 📫 Contato
