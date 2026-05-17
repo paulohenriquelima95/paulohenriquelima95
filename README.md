@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Paulo Henrique Lima
 
-🎯 **Objetivo:** Estou em transição de carreira para a área de **Análise de Dados** e buscando oportunidades como **Analista de Dados Júnior**. Tenho experiência com coleta, limpeza e tratamento de dados de diversos formatos em **Excel, SQL, Python e ferramentas de visualização de dados**.
+🎯 **Objetivo:** Analista de Dados com atuação na área da saúde, trabalhando com gestão estratégica e análise de indicadores hospitalares. Tenho experiência prática com SQL, Python, Power BI e Excel aplicados a dados reais em ambiente hospitalar. Meu objetivo de carreira é me tornar Engenheiro de ML e MLOps — construindo sólida base em ciência de dados e machine learning para operar modelos em produção em larga escala.
 
 ---
 
