@@ -1,6 +1,10 @@
 # 👋 Olá! Eu sou Paulo Henrique Lima
 
-🎯 **Objetivo:** Analista de Dados com atuação na área da saúde, trabalhando com gestão estratégica e análise de indicadores hospitalares. Tenho experiência prática com SQL, Python, Power BI e Excel aplicados a dados reais em ambiente hospitalar. Meu objetivo de carreira é me tornar Engenheiro de ML e MLOps — construindo sólida base em ciência de dados e machine learning para operar modelos em produção em larga escala.
+🎯 **Objetivo:** Atualmente atuo como Analista de Dados na área de Gestão Estratégica da Santa Casa de Misericórdia de Barra Mansa, desenvolvendo análises, indicadores e dashboards que apoiam a tomada de decisão no ambiente hospitalar.
+
+Tenho experiência prática com SQL, Python, Power BI e Excel aplicados a dados reais, com foco em Business Intelligence, análise de indicadores hospitalares e geração de insights para a gestão.
+
+Atualmente, estou aprofundando meus conhecimentos em Machine Learning e MLOps, com o objetivo de desenvolver e operacionalizar soluções inteligentes para a área da saúde.
 
 ---
 
